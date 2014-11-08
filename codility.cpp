@@ -3,11 +3,11 @@
 #include <vector>
 
 /* Parameters */
-#define VALIDATE		1					// should we run the valide test
-#define PERFORMANCE		1					// should we run the performance test
+#define VALIDATE		1			// should we run the validation test
+#define PERFORMANCE		1			// should we run the performance test
 #define FIRST			"solution.cpp"		// first contender
-#define SECOND			"bruteforce.cpp"	// second contented
-static int kAmount =	10;					// amount of input test values to generate
+#define SECOND			"bruteforce.cpp"	// second contender
+static int kAmount =		10;			// amount of input test values to generate
 
 /* Problem settings */
 
